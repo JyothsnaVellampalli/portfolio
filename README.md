@@ -2,5 +2,4 @@
 
 Personal Static Website
 
-[Portfolio](https://portfolio-
-jyothsnavellampalli.netlify.app/)
+[Portfolio](https://portfolio-jyothsnavellampalli.netlify.app/)
