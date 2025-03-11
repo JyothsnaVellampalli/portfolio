@@ -1,5 +1,6 @@
-# ahsankhan26.github.io
+# Jyothsna
 
 Personal Static Website
 
-[ahsankhan.me](https://ahsankhan.me)
+[Portfolio](https://portfolio-
+jyothsnavellampalli.netlify.app/)
